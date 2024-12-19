@@ -5,9 +5,9 @@ Je suis un développeur **Fullstack** passionné par le code propre et les appli
 ---
 
 ## 🌟 Mes compétences  
-- **Front-end** : React, Vue, TailwindCSS 
-- **Back-end** : Node.js, Python, Go  
-- **Cloud** : Docker, Kubernetes, AWS  
+- **Front-end** : React, TailwindCSS 
+- **Back-end** : Node.js, Python  
+- **Cloud** : Docker, AWS  
 
 ---
 
