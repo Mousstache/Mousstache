@@ -3,7 +3,7 @@
 Je suis un développeur **Fullstack** passionné par le code propre et les applications performantes.
 
 <div align="center">
-  <img src="fond/webp" alt="Image de fond" style="width: 100%; margin-bottom: 20px;">
+  <img src="fond/giphy.webp" alt="Image de fond" style="width: 100%; margin-bottom: 20px;">
 </div>
 
 ---
