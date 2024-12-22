@@ -2,20 +2,37 @@
 
 Je suis un développeur **Fullstack** passionné par le code propre et les applications performantes.
 
+<div align="center">
+  <img src="https://via.placeholder.com/1500x500" alt="Image de fond" style="width: 100%; margin-bottom: 20px;">
+</div>
+
 ---
 
 ## 🌟 Mes compétences  
-- **Front-end** : React, TailwindCSS 
-- **Back-end** : Node.js, Python  
-- **Cloud** : Docker, AWS  
+<table>
+  <tr>
+    <td><strong>Front-end</strong></td>
+    <td>React, TailwindCSS</td>
+  </tr>
+  <tr>
+    <td><strong>Back-end</strong></td>
+    <td>Node.js, Python</td>
+  </tr>
+  <tr>
+    <td><strong>Cloud</strong></td>
+    <td>Docker, AWS</td>
+  </tr>
+</table>
 
 ---
 
 ## 📈 Statistiques GitHub  
-![Stats GitHub](https://github-readme-stats.vercel.app/api?username=mousstache&show_icons=true&theme=radical)  
-![Langues les plus utilisées](https://github-readme-stats.vercel.app/api/top-langs/?username=mousstache&layout=compact&theme=radical)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mousstache&show_icons=true&theme=radical" alt="Stats GitHub" style="margin-bottom: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mousstache&layout=compact&theme=radical" alt="Langues les plus utilisées">
+</div>
 
 ---
 
 ## 🔗 Liens utiles  
-- [Portfolio](https://mousstache.github.io)  
+- [Portfolio](https://mousstache.github.io)
