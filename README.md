@@ -1,10 +1,9 @@
+<div align="center">
 # 👋 Salut, moi c'est Moussa !
 
 Je suis un développeur **Fullstack** passionné par le code propre et les applications performantes.
 
-<div align="center">
-  <img src="fond/giphy.webp" alt="Image de fond" style="width: 100%; margin-bottom: 20px;">
-</div>
+  <img src="fond/stars.webp" alt="Image de fond" style="width: 100%; margin-bottom: 20px;">
 
 ---
 
@@ -36,3 +35,5 @@ Je suis un développeur **Fullstack** passionné par le code propre et les appli
 
 ## 🔗 Liens utiles  
 - [Portfolio](https://mousstache.github.io)
+
+</div>
