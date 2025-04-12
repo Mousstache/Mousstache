@@ -29,6 +29,3 @@ Je suis un développeur **Fullstack** passionné par le code propre et les appli
 </div>
 
 ---
-
-## 🔗 Liens utiles  
-- [Portfolio](https://mousstache.github.io)
