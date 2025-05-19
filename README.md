@@ -16,7 +16,7 @@ Je suis un développeur **Fullstack** passionné par le code propre et les appli
   </tr>
   <tr>
     <td><strong>Cloud</strong></td>
-    <td>Docker, AWS</td>
+    <td>Docker</td>
   </tr>
 </table>
 
