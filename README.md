@@ -8,11 +8,15 @@ Je suis un développeur **Fullstack** passionné par le code propre et les appli
 <table>
   <tr>
     <td><strong>Front-end</strong></td>
-    <td>React, TailwindCSS</td>
+    <td>React, TailwindCSS, CSS, Boostrap</td>
   </tr>
   <tr>
     <td><strong>Back-end</strong></td>
-    <td>Node.js, Python</td>
+    <td>Node.js, Python, Express</td>
+  </tr>
+  <tr>
+    <td><strong>Data-base</strong></td>
+    <td>Mariadb, Postgresql, SQLite</td>
   </tr>
   <tr>
     <td><strong>Cloud</strong></td>
