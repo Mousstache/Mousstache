@@ -1,6 +1,6 @@
 # 👋 Salut, moi c'est Moussa !
 
-Je suis un développeur **Fullstack** passionné par le code propre et les applications performantes.
+Je suis un développeur **Fullstack** & **Mobile** passionné par le code propre et les applications performantes.
 
 ---
 
